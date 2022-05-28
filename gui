@@ -155,7 +155,7 @@ local SolarisLib = {
         Theme = "Default",
         ShowFriendsOnLaunch = true,
         ShowMusicOnLaunch = false,
-        CloseBind = "RightControl"
+        CloseBind = "V"
     },
     Flags = {},
     CurrentTab
